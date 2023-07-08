@@ -11,7 +11,7 @@ I enjoy learning about tech & code, playing videogames and food are my passion a
 
 ### Hope to get along very well :beers:
 
-### So, let's start having a good time coding...
+### So, let's start having a good time of coding...
 
   <img src="img/cheems laptop 2.jpg" width="80"/> 
 
