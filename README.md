@@ -1,6 +1,6 @@
 ## Hi everybody 😄
 
-I'm a electronic engineer in Bolivia <img src="img/pngwing.com.png" width="20"/> 
+I'm an electronic engineer in Bolivia <img src="img/pngwing.com.png" width="20"/> 
 
 I enjoy learning about tech & code, playing videogames and food are my passion aswell :video_game::poultry_leg:
 
